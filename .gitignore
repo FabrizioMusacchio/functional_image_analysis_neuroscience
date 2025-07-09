@@ -13,3 +13,6 @@ __pycache__/
 Sue_2x_3000_40_-46.tif
 *.tif
 *.tiff
+01 CaImAn tutorial/caiman_pipeline_ADFCFL1_BL_goodParameters.ipynb
+*.hdf5
+*.h5
