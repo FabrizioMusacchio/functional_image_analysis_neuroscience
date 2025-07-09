@@ -1,12 +1,14 @@
 """ 
 This script convert Thorlabs raw data files to a format that can be used with CaImAn: tiff files.
 
-To not conflict with the CaImAn environment, please create a new dedicatedone:
+To not conflict with the CaImAn environment, please create a new dedicated one:
 
 mamba create -n convert_thorlabs python=3.8 tifffile ipykernel -y
 mamba activate convert_thorlabs
 pip install utils2p
 
+author: Fabrizio Musacchio
+date: July 9, 2025
 """
 # %% IMPORTS
 import os
