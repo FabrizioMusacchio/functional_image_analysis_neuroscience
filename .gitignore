@@ -1,0 +1,8 @@
+# locally cached files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.eggs/
+*.egg-info/
+*Pretrained_models*
+02 Cascade tutorial/Cascade/.git
