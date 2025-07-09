@@ -6,3 +6,7 @@ __pycache__/
 *.egg-info/
 *Pretrained_models*
 02 Cascade tutorial/Cascade/.git
+02 Cascade tutorial/Cascade/*
+02 Cascade tutorial/environment_mac.yml
+02 Cascade tutorial/requirements_mac.txt
+03 Linking Behavior and Neuronal Activity/generate_toy_behavior.py
