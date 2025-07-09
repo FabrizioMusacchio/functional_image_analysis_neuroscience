@@ -1,6 +1,6 @@
 # Functional Imaging Data Analysis in Neuroscience: From Calcium Signals to Integrated Behavior Mapping
 
-In this course, students will learn essential computational approaches for analyzing functional imaging data in neuroscience. The focus is on the full workflow: quantitative processing of calcium imaging data, inference of neuronal spiking activity, and the integration of behavioral measurements with neuronal activity. All analyses are based on open-source Python tools (CaImAn, CASCADE), and the course emphasizes practical, reproducible methods that do not require advanced programming skills.
+In [this course](https://www.fabriziomusacchio.com/teaching/teaching_functional_image_data_analysis/), students will learn essential computational approaches for analyzing functional imaging data in neuroscience. The focus is on the full workflow: quantitative processing of calcium imaging data, inference of neuronal spiking activity, and the integration of behavioral measurements with neuronal activity. All analyses are based on open-source Python tools (CaImAn, CASCADE), and the course emphasizes practical, reproducible methods that do not require advanced programming skills.
 
 ## Learning outcomes
 Upon successful completion, students will be able to:
@@ -13,9 +13,11 @@ Upon successful completion, students will be able to:
 * **Infer neuronal spiking activity from calcium imaging signals using CASCADE**
   * Understand the challenges and approaches for inferring action potentials from slow calcium dynamics.
   * Apply the CASCADE pipeline to convert calcium traces into estimated spike trains and evaluate inference accuracy.
-* **Integrate behavioral data with neuronal activity**
-  * Synchronize, merge, and visualize behavioral measurements (e.g., locomotion, stimulus presentation) with inferred neuronal activity.
-  * Implement basic statistical and visualization methods to explore relationships between neuronal population activity and behavior.
+* **Analyze and interpret neural population activity**
+  * Visualize and quantify population activity using heatmaps, binning, and summed activity traces.
+  * Apply correlation and dimensionality reduction techniques to uncover patterns and functional structure.
+  * Sort and cluster neurons based on their relationship to population-level signals.
+  * Identify functional assemblies and emergent collective dynamics within neural circuits.
 * **Critically evaluate the limitations, sources of error, and reproducibility of each analysis step**
   * Identify common pitfalls in calcium imaging analysis and spike inference.
   * Document and reproduce analysis workflows using recommended open-source tools.
