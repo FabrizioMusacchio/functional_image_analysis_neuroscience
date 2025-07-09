@@ -16,3 +16,4 @@ Sue_2x_3000_40_-46.tif
 01 CaImAn tutorial/caiman_pipeline_ADFCFL1_BL_goodParameters.ipynb
 *.hdf5
 *.h5
+03 Patterns in neural activity/generate_toy_behavior.py
