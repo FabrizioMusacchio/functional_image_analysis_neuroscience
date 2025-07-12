@@ -17,3 +17,4 @@ Sue_2x_3000_40_-46.tif
 *.hdf5
 *.h5
 03 Patterns in neural activity/generate_toy_behavior.py
+01 CaImAn tutorial/demo_image/Sue_2x_3000_40_-46_metrics.npz
